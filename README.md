@@ -9,6 +9,10 @@ https://github.com/Natico/fullcalendar-Jalaali/
 و تغییرات دیگر، تقویم فارسی (جلالی یا همان شمسی) را ارائه می کند. سایر مراحل و توضیحات مانند [پلاگین اصلی](https://github.com/kanboard/plugin-calendar) است.
 برای استفاده از این پلاگین، حتما ابتدا مطمئن شوید که پلاگین اصلی را حذف کرده اید. .
 
+  
+  ![image](https://user-images.githubusercontent.com/1561497/133827336-581da382-2bbd-43e6-b454-6aad22b142b6.png)
+
+  
 </div>
 
 Calendar Plugin
