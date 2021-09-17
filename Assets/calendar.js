@@ -14,12 +14,17 @@ KB.component('calendar', function (containerElement, options) {
         }
 
         calendar.fullCalendar({
+		/*****begin of persian jalali calendar configs ******/
+			lang: 'fa',
+			isJalaali: true,
+			isRTL: true,
+		/*****end of persian jalali calendar configs ******/
             locale: $("body").data("js-lang"),
             editable: true,
             eventLimit: true,
             defaultView: mode,
             header: {
-                left: 'prev,next today',
+                left: 'next,prev today',
                 center: 'title',
                 right: 'month,agendaWeek,agendaDay'
             },
